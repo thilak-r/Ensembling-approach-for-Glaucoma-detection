@@ -38,7 +38,6 @@ This project is built using the following powerful technologies:
 * **Programming Language:**  🐍 **Python 3.7+**
 * **Deep Learning Frameworks:**
     * <img src="https://img.shields.io/badge/TensorFlow-2.x-orange.svg?logo=tensorflow&logoColor=white" alt="TensorFlow"/> **TensorFlow 2.x**
-    * <img src="https://img.shields.io/badge/Keras-2.x-red.svg?logo=keras&logoColor=white" alt="Keras"/> **Keras (integrated with TensorFlow)**
 * **Data Science & Machine Learning Libraries:**
     * <img src="https://img.shields.io/badge/NumPy-1.20+-green.svg?logo=numpy&logoColor=white" alt="NumPy"/> **NumPy**
     * <img src="https://img.shields.io/badge/Pandas-1.3+-purple.svg?logo=pandas&logoColor=white" alt="Pandas"/> **Pandas**
@@ -56,3 +55,20 @@ Follow these steps to get started with the Glaucoma Detection project:
    ```bash
    git clone https://github.com/thilak-r/Glaucoma-Detection-ensembling.git
    cd Glaucoma-Detection-ensembling
+2. **Set up a virtual environment (recommended)**
+
+To isolate project dependencies, it's highly recommended to create a virtual environment. Open your terminal and run the following commands:
+
+   ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Linux/macOS
+    venv\Scripts\activate  # On Windows
+```
+    
+3. **Install the required Python packages**
+
+    ```bash
+       pip install -r requirements.txt
+    ```
+---
+
