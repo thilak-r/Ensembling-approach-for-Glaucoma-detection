@@ -71,3 +71,27 @@ To isolate project dependencies, it's highly recommended to create a virtual env
     ```
 ---
 
+## 🤝 Contributions
+
+Contributions are welcome! 🎉 If you have ideas for improvements, new models, better training strategies, or bug fixes, please feel free to:
+
+*   **Fork** the repository.
+*   Create a new **branch** for your feature or bug fix.
+*   **Commit** your changes.
+*   **Push** your branch to your fork.
+*   Submit a **Pull Request**.
+
+Let's collaborate to advance glaucoma detection research together! 👨‍💻👩‍⚕️
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the `LICENSE` file for more details.
+
+## [Dataset](https://www.kaggle.com/datasets/thilak02/dataset)
+
+## 📧 Contact
+
+For any questions, suggestions, or collaborations, please feel free to reach out to:
+
+Thilak R
+thilak22005@gmail.com
