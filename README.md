@@ -11,8 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/thilak-r/Glaucoma-Detection-ensembling/main/best%20grad_images/positive_gradcam_image_11.png" width="400" alt="Glaucoma Detection - Grad-CAM Example">
-</p>
+ <img src="https://raw.githubusercontent.com/thilak-r/Glaucoma-Detection-ensembling/main/best%20grad_images/results.png" alt="Performance Results" width="600">
 
 <h3 align="center">Detecting Glaucoma from Fundus Images using Deep Learning Ensemble Techniques </h3>
 
